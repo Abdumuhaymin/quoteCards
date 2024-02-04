@@ -1,0 +1,46 @@
+.Abe{
+    width: 263px;
+    background-color: #4267B2;
+    margin: auto;
+    text-align: center;
+    border-radius: 7px;
+}
+.Abe-img{
+    border-radius: 50%;
+    padding-right: 20px;
+    size: 180px;
+}
+.Abe-title{
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 120px;
+    color: #fff;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.Abe-subtitle{
+    color: #fff;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Graphik Web;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+}
+.Abe-main{
+color: #BBC6FF;
+text-align: right;
+font-family: Graphik Web;
+font-size: 14px;
+font-style: normal;
+text-align: center;
+padding-top: 7px;
+}
+hr{
+    color: #9CA2F7;
+    width: 263px;
+    height: 1px;
+}
